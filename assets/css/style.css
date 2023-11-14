@@ -1070,7 +1070,7 @@ section {
   line-height: 24px;
   font-weight: 500;
   padding: 0 30px;
-  outline-color: transparent;
+  outline: none;
   cursor: pointer;
 }
 
